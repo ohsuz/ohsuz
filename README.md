@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ohsuz/ohsuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59340911/91145282-2bd2db80-e6f0-11ea-9654-0fb2e53953f7.gif">
+</p>
