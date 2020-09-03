@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59340911/91150710-b79c3600-e6f7-11ea-8b20-c23074abdcd8.gif">
+  <img src="https://user-images.githubusercontent.com/59340911/92104232-02b2f900-ee1c-11ea-8549-011666e1618e.gif">
 </p>
