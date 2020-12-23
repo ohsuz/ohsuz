@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59340911/102986095-99cec880-4553-11eb-9b8b-1cb48d04c663.gif" width="250">
-  <img src="https://user-images.githubusercontent.com/59340911/102986948-f4b4ef80-4554-11eb-8bbb-9beb114edc00.gif" width="250">
-  <img src="https://user-images.githubusercontent.com/59340911/102986394-15307a00-4554-11eb-8fba-9fca00947a62.gif" width="250">
+  <img src="https://user-images.githubusercontent.com/59340911/102986948-f4b4ef80-4554-11eb-8bbb-9beb114edc00.gif" width="250 height="250">
+  <img src="https://media.giphy.com/media/nTFwqpxf8N4djrXin6/giphy.gif" height="250">
+  <img src="https://user-images.githubusercontent.com/59340911/102986394-15307a00-4554-11eb-8fba-9fca00947a62.gif" width="250" height="250">
 </p>
