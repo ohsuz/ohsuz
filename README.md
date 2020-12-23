@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59340911/102986095-99cec880-4553-11eb-9b8b-1cb48d04c663.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/59340911/102986377-0fd32f80-4554-11eb-8a94-edbb45d7feeb.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/59340911/102986387-12ce2000-4554-11eb-979f-91700a1b175d.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/59340911/102986394-15307a00-4554-11eb-8fba-9fca00947a62.gif" width="150">
-  <img src="https://user-images.githubusercontent.com/59340911/102986398-182b6a80-4554-11eb-82d7-280e902b9b3e.gif" width="150">
+  <img src="https://user-images.githubusercontent.com/59340911/102986095-99cec880-4553-11eb-9b8b-1cb48d04c663.gif" width="250">
+  <img src="https://user-images.githubusercontent.com/59340911/102986948-f4b4ef80-4554-11eb-8bbb-9beb114edc00.gif" width="250">
+  <img src="https://user-images.githubusercontent.com/59340911/102986394-15307a00-4554-11eb-8fba-9fca00947a62.gif" width="250">
 </p>
